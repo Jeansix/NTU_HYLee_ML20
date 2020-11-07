@@ -35,7 +35,7 @@
 
 - 每个月作为一个样本，样本大小为`18*480`,18是观测数据的维度，480是每个月选取20天和每天24小时的乘积
 
-  <img src="D:\university\大四前进（1）\机器学习\NTU_HYLee_ML20\Regression\extract_feature1.png" alt="extract_feature1" style="zoom:75%;" />
+  ![Alt text](https://github.com/Jeansix/NTU_HYLee_ML20/blob/master/1.Regression/image/extract_feature1.png)
 
 - 维护一个9小时的滑动窗口，
 
@@ -43,7 +43,7 @@
 
   12个月一共有`12*471`组data,每组data的维度是`18*9`，
 
-  <img src="D:\university\大四前进（1）\机器学习\NTU_HYLee_ML20\Regression\extract_feature2.png" alt="extract_feature2" style="zoom:75%;" />
+  ![Alt text](https://github.com/Jeansix/NTU_HYLee_ML20/blob/master/1.Regression/image/extract_feature2.png)
 
   对应的标签有`471*12`个，为第10小时的PM2.5
 
