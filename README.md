@@ -10,9 +10,9 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
 | --------------------- | ------ | ------------ | ------------ |
 | Regression            | 含作业 | 11.5前       | 11.3-11.7    |
 | Gradient Descent      |        | 11.5前       | 11.3         |
-| Classification        | 含作业 | 11.8前       |              |
-| DL预备                |        | 11.8前       |              |
-| CNN                   | 含作业 |              |              |
+| Classification        | 含作业 | 11.8前       | 11.12        |
+| DL预备                | 含联系 | 11.8前       | 11.16        |
+| CNN                   | 含作业 | 11.21前      |              |
 | RNN                   | 含作业 |              |              |
 | Explainable AI        | 含作业 |              |              |
 | Adversarial Attack    | 含作业 |              |              |
