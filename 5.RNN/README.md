@@ -45,9 +45,7 @@ Use Dataset and DataLoader to encapsulate data for training and testing.
 
 ##### Framework
 
-
-
-<img src="D:\university\大四前进（1）\机器学习\NTU_HYLee_ML20\5.RNN\model.JPG" alt="3d" style="zoom: 50%;" />
+![Alt text](https://github.com/Jeansix/NTU_HYLee_ML20/blob/master/5.RNN/hw_RNN/data/model.JPG)
 
 ##### LSTM Part
 
@@ -57,7 +55,7 @@ The **input** for LSTM layer has two parameters: **input(batch_size,seq_len,inpu
 
 The LSTM layer yields two **outputs**: **out(batch_size,seq_len,hidden_size\*num_directions)** and **h_n(batch_size,num_layers\*num_directions,hidden_size)**
 
-<img src="D:\PRML\asm2\3d.png" alt="3d" style="zoom: 50%;" />
+![Alt text](https://github.com/Jeansix/NTU_HYLee_ML20/blob/master/5.RNN/hw_RNN/data/3d.png)
 
 #### 🚆Train
 
