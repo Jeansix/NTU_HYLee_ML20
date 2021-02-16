@@ -17,8 +17,8 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
 | Explainable AI        | 含作业 | 12.27前      | 12.27        |
 | Adversarial Attack    | 含作业 | 1.14前       | 1.26             |
 | Network Compression   | 含作业 | 1.29前       | 2.2             |
-| Seq2seq               | 含作业 | 2.5前         |              |
-| Unsupervised Learning | 含作业 |              |              |
+| Seq2seq               | 含作业 | 2.5前         |  2.16            |
+| Unsupervised Learning | 含作业 | 2.17前        |              |
 | Anomaly Detection     | 含作业 |              |              |
 | GAN                   | 含作业 |              |              |
 | Transfer Learning     | 含作业 |              |              |
