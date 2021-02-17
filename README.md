@@ -18,9 +18,9 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
 | Adversarial Attack    | 含作业 | 1.14前       | 1.26             |
 | Network Compression   | 含作业 | 1.29前       | 2.2             |
 | Seq2seq               | 含作业 | 2.5前         |  2.16            |
-| Unsupervised Learning | 含作业 | 2.17前        |              |
-| Anomaly Detection     | 含作业 |              |              |
-| GAN                   | 含作业 |              |              |
+| Unsupervised Learning | 含作业 | 2.17前        |  2.17            |
+| Anomaly Detection     | 含作业 | 2.21前        |              |
+| GAN                   | 含作业 | 2.21前        |              |
 | Transfer Learning     | 含作业 |              |              |
 | Meta Learning         | 含作业 |              |              |
 | Life-long Learning    | 含作业 |              |              |
