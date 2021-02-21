@@ -20,8 +20,8 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html
 | Seq2seq               | 含作业 | 2.5前         |  2.16            |
 | Unsupervised Learning | 含作业 | 2.17前        |  2.17            |
 | Anomaly Detection     | 含作业 | 2.21前        |  2.18            |
-| GAN                   | 含作业 | 2.21前        |              |
-| Transfer Learning     | 含作业 |              |              |
+| GAN                   | 含作业 | 2.21前        | 2.21             |
+| Transfer Learning     | 含作业 | 2.22前        |              |
 | Meta Learning         | 含作业 |              |              |
 | Life-long Learning    | 含作业 |              |              |
 | Reinforced Learning   | 含作业 | 12.14前      | 12.19        |
